@@ -6,4 +6,5 @@ fun main() {
     var lst: List<String> = listOf("Its", "Abhishek")
     println(lst)
     println(lst.get(0))
+
 }
